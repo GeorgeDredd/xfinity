@@ -6,7 +6,7 @@
 body {
     background-color: #ffffff;
     font-family: 'Roboto Condensed', Arial, sans-serif;
-    font-size: 16px;
+    font-size: 24px;
     line-height: 1.5;
 }
 
@@ -199,14 +199,4 @@ form {
 .disabled {
     cursor: default;
     opacity: .5;
-}
-
-
-
-@media only screen and (min-width: 768px) {
-    .billing-info-container .input-container{
-        width: 100%;
-        /* outline: 2px solid red; */
-        /* outline: 2px solid red; */
-    }
 }
